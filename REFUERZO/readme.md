@@ -20,6 +20,6 @@ Iré subiendo las soluciones de forma regular.
 
 ![image](https://user-images.githubusercontent.com/91023374/133936917-5b4ccde3-80d2-4723-8538-838f26ae4c1d.png)
 
-Autores: Carlos Cacho y Raquel Torres
+<sub>Autores: Carlos Cacho y Raquel Torres</sub>
 
-Revisado por: Lionel Tarazon y Fco. Javier Valero
+<sub>Revisado por: Lionel Tarazon y Fco. Javier Valero</sub>
