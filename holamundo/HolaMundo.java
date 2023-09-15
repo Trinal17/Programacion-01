@@ -17,7 +17,7 @@ public class HolaMundo {
         // TODO code application logic here
         
         
-        System.out.println("Mi primer programita!!!");
+        System.out.println("Hola mundo!!!");
         
         String saludo = "Hola";
         String nombre = "Mari";
