@@ -16,11 +16,10 @@ Iré subiendo las soluciones de forma regular.
 
 ![image](https://user-images.githubusercontent.com/91023374/133936913-4c7804f8-c9e1-45f3-9002-94285a5945b2.png)
 
-![image](https://user-images.githubusercontent.com/91023374/133936917-5b4ccde3-80d2-4723-8538-838f26ae4c1d.png)
 
 ### Licencia
 
-![image](https://github.com/profeMelola/Programacion-01-2023-24/assets/91023374/2d8e1cde-6689-40f9-94c7-e0b19af4cda4)
+![image](https://user-images.githubusercontent.com/91023374/133936917-5b4ccde3-80d2-4723-8538-838f26ae4c1d.png)
 
 Autores: Carlos Cacho y Raquel Torres
 
