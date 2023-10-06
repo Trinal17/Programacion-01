@@ -8,3 +8,10 @@
 2. Identificación de los elementos de un programa informático
 
 [VOLVER PÁGINA PRINCIPAL](https://github.com/profeMelola/Programacion-00-2023-24)
+
+## Contenidos
+- Imprimir por la salida estándar
+- Variables y constantes
+- Operadores
+- Conversión de tipos
+- Lectura de teclado
