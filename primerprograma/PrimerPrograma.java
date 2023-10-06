@@ -1,5 +1,9 @@
 /*
- * Mi primer programa 
+ * Mi primer programa. Practicando con variables de tipo entero.
+ * Aprenderé:
+ * - que Java es Case Sensitive
+ * - sobreescribir valores en una variable
+ * - que no puedo declarar la misma variable dos veces
  * Del día 14/09/23
  */
 package primerprograma;
@@ -30,7 +34,7 @@ public class PrimerPrograma {
         //System.out.println(result); //Esto da error
         //int result = num_a * num_b;
         
-        // int num_a = 666; // Esto da un pedazo error!!!
+        // int num_a = 666; // Esto da error porque no puedo declarar la misma variable dos veces!!!
         
         // num_a = 666;
         
