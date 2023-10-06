@@ -56,16 +56,18 @@ public class ParImpar {
             System.out.println("El número es impar");
         }*/
         
-        /*else if( resto != 0){
+        /*
+        // Sobra hacer el else if porque si el resto no es cero es que es distinto
+        else if( resto != 0){
             System.out.println("El número es impar");
-        } */ 
-        
+        }
+        */ 
         /*
         if ( resto != 0){
             System.out.println("El número es impar");
         }*/
         
-        System.out.println("Chimpún!!!!!!!!!");
+        System.out.println("Fin del programa!!!!!!!!!");
         
     }
     
