@@ -9,7 +9,7 @@ import java.util.Scanner;
  *
  * @author melola
  */
-public class PruebasScanner {
+public class ParImpar {
 
     /**
      * @param args the command line arguments
@@ -28,7 +28,7 @@ public class PruebasScanner {
         System.out.println("*   ES PAR O IMPAR   *");
         System.out.println("**********************");
         
-        System.out.println("Escribe un número torpedo: ");
+        System.out.println("Escribe un número: ");
         num = sc.nextInt();
         
         //System.out.println("El usuario ha escrito el número: "+num);
