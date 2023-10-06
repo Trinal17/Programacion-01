@@ -22,10 +22,10 @@ public class Operadores {
         //decrementar en 1
         numero--; //aquí da 6
         
-        // ????????? EN OBSERVACIÓN
+        //preincremento 
         ++numero; //7
         
-        //
+        //predecremento
         --numero; //6
         
         
