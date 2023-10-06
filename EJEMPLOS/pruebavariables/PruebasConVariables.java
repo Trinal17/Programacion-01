@@ -6,13 +6,13 @@
  * - que no puedo declarar la misma variable dos veces
  * Del día 14/09/23
  */
-package primerprograma;
+package EJEMPLOS.pruebavariables;
 
 /**
  *
  * @author melola
  */
-public class PrimerPrograma {
+public class PruebasConVariables {
 
     /**
      * @param args the command line arguments

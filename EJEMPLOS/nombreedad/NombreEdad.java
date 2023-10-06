@@ -1,8 +1,8 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ * Programa que muestra por consola distintos valores de variables
+ * Aprenderás el uso del operador + para concatenar valores
  */
-package nombreedad;
+package EJEMPLOS.nombreedad;
 
 /**
  *

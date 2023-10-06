@@ -87,31 +87,3 @@ public class UT02E03Operadores {
 }
 
 
-/**
- * Ejercicio 1.
- * Crea un programa en java que genera la tabla de multiplicar
- * de un número que se declara en una variable al inicio del mismo.
- * Solo puede usar una variable de tipo entero en todo el programa.
- */
-
-/**
- * Ejercicio 2.
- * Crea un programa que a partir de la fecha de nacimiento diga la edad
- * en años, meses y días de la persona.
- * Y los bisiestos? Es muy tedioso! Investiga "java gregorian calendar",
- * e intenta resolver el ejercicio haciendo uso de ello.
- */
-
-/**
- * Ejercicio 3.
- * Crea un programa que saque por pantalla las calificaciones obtenidas
- * en 4 asignaturas, y debe indicar de alguna forma cual de ellas tiene
- * la mayor calificación.
- */
-
-/**
- * Ejercicio 4.
- * Crea un programa que calcule la hipotenusa de un triángulo retácnculo
- * a partir del tamaño de sus catetos, los valores deben expresarse 
- * con decimales.
- */
