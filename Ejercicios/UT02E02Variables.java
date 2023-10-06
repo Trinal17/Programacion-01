@@ -101,29 +101,3 @@ public class UT02E02Variables {
 }
 
 
-/**
- * Ejercicio 1.
- * Echa un vistazo a los tipos de datos primitivos:
- * https://www.w3schools.com/java/java_data_types.asp
- * Observa el rango numérico de cada tipo de dato.
- */
-
-/**
- * Ejercicio 2.
- * Crea un programa con dos variables de distinto tipo,
- * intenta asignar la primera variable a la segunda.
- * Prueba con diferentes tipos y familiarizate con los 
- * errores que genera.
- */
-
-/**
- * Ejercicio 3.
- * Crea tres variables de tipo char y emplearlas en una sola sentencia
- * System.out.println para generar una palabre de tres letras como Sol.
- */
-
-/**
- * Ejercicio 4.
- * Imprime por pantalla una dirección postal tal y como aparecería en
- * una carta. Todos los campos deben ser variables.
- */
