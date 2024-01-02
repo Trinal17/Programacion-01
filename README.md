@@ -17,6 +17,7 @@ Contenidos en el aula virtual: https://aulavirtual3.educa.madrid.org/ies.alonsod
 - Conversión de tipos
 - Lectura de teclado
 
+## Página principal del curso
 [VOLVER PÁGINA PRINCIPAL](https://github.com/profeMelola/Programacion-00-2023-24)
 
 ## Licencia
