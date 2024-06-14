@@ -18,7 +18,7 @@ Contenidos en el aula virtual: https://aulavirtual3.educa.madrid.org/ies.alonsod
 - Lectura de teclado
 
 ## Página principal del curso
-[VOLVER PÁGINA PRINCIPAL](https://github.com/profeMelola/Programacion-00-2023-24)
+[VOLVER PÁGINA PRINCIPAL](https://github.com/Trinal17/Programacion)
 
 ## Licencia
 
